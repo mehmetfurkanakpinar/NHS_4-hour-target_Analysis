@@ -1,4 +1,5 @@
 NHS A&E 4-Hour Target Analysis (2010–2025)
+
 Research Rationale
 This project investigates the long-term trends and systemic pressures affecting the NHS 4-hour A&E waiting time target. It employs time-series forecasting (Facebook Prophet) and longitudinal data analysis to quantify performance against operational standards.
 
